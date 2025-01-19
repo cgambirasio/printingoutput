@@ -29,3 +29,15 @@ ${a} < ${b} = ${a < b}
 `;
 
 console.log(output);
+
+
+// TASK 2
+
+let first_name = "Camila";
+let last_name = "Gambirasio";
+let email = "gamb0076@algonquinlive.com";
+
+let tasktwoOutput = `My name is ${first_name} ${last_name}. You can contact me at ${email}.`;
+
+console.log(tasktwoOutput);
+
